@@ -21,7 +21,7 @@ module.exports = {
             chainId: 11155111,
         },
         localhost: {
-            url: "http://127.0.0.1:8545/",
+            url: "YOUR_LOCALHOST_RPC_URL/",
             chainId: 31337,
         },
     },
